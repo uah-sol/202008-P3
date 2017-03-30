@@ -18,7 +18,7 @@
 
 /**
  * 
- * Práctica 4. I2C en Arduino. Esclavo del bus.
+ * Práctica 3. I2C en Arduino. Esclavo del bus.
  * 
  * En el arranque del sistema, el programa debe realizar las siguientes
  * operaciones:
